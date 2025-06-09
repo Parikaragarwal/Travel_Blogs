@@ -21,7 +21,7 @@ const Donation = () => {
                     <div className="flex justify-center">
                         <div className="p-4 bg-orange-50 rounded-2xl border-4 border-orange-300 shadow-lg">
                             <img 
-                                src="/Images/Gpay.jpeg" 
+                                src="Gpay.jpeg" 
                                 alt="Donate via GPay QR" 
                                 className="max-h-[420px] w-auto object-contain rounded-xl"
                             />
